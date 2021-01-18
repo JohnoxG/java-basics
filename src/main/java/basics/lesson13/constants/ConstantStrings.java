@@ -10,6 +10,5 @@ public class ConstantStrings {
 	public String getName() {
 		return name;
 	}
-
 	
 }
